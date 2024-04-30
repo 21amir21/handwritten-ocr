@@ -14,13 +14,13 @@ Handwritten OCR is a Python-based optical character recognition (OCR) system des
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/21amir21/handwritten-ocr.git
+   `git clone https://github.com/21amir21/handwritten-ocr.git`
 
 2. Navigate to the project directory:
-   cd handwritten-ocr
+   `cd handwritten-ocr`
 
 3. Install dependencies:
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 
 ## Usage
 
