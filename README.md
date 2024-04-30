@@ -14,7 +14,7 @@ Handwritten OCR is a Python-based optical character recognition (OCR) system des
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/handwritten-ocr.git
+   git clone https://github.com/21amir21/handwritten-ocr.git
 
 2. Navigate to the project directory:
    cd handwritten-ocr
