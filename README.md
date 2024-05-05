@@ -4,12 +4,17 @@
 
 Handwritten OCR is a Python-based optical character recognition (OCR) system designed to recognize handwritten text from images.
 
+### In this project we used two approaches:-
+
+1. using ANN (Artifical Neural Network)
+2. using Random Forest
+
 ## Features
 
 - Recognizes handwritten text from images.
 - Supports various image formats such as JPEG, PNG, and BMP.
 - Uses machine learning algorithms for accurate character recognition.
-- Provides easy-to-use APIs for integration into existing applications.
+- [TODO] Provides easy-to-use APIs for integration into existing applications.
 
 ## Installation
 
