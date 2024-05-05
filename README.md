@@ -22,27 +22,9 @@ Handwritten OCR is a Python-based optical character recognition (OCR) system des
 3. Install dependencies:
    `pip install -r requirements.txt`
 
-## Usage
+## EMNIST Dataset
 
-1. Import the OCR module:
-
-```python
-import ocr
-
-image = ocr.load_image("handwritten_text.png")
-```
-
-Perform OCR on the image:
-
-```python
-text = ocr.recognize_text(image)
-```
-
-Print the recognized text:
-
-```python
-print(text)
-```
+The EMNIST dataset is a collection of handwritten characters derived from the NIST Special Database 19 and converted to a more manageable format. It contains 814,255 characters divided into 814,255 training images and 81,224 testing images. You can download the dataset used for this project from [Kaggle](https://www.kaggle.com/crawford/emnist).
 
 ## Contributing
 
